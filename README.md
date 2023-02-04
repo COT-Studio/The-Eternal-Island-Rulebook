@@ -1,2 +1,16 @@
-# The-Eternal-Island-Rulebook
-Rulebook of a TRPG named The Eternal Island
+永恒之岛
+==
+The Eternal Island
+--
+
+《永恒之岛》是一款桌面角色扮演游戏（TRPG），本仓库用于发布此游戏的规则书
+
+html、md、pdf、txt版的规则书内容都是完全一样的，如果不知道该看哪个的话随便选一个能打开的就行
+
+附带一份空白角色卡
+
+附带一份模组供试玩
+
+您可以免费下载此规则书及其附件，与您的朋友一同试玩此游戏
+
+官方Q群：779481704
